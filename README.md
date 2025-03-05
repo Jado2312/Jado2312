@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hello there!    
+
+## I’m a student of computer engineering at the TEC. 
+## I can imagine myself without the notions of how computers and programming work. 
+## As hobbies I usually play video games and read fantasy/science fiction/cosmic horror novels.
+## I’m currently learning about OS and computational molecular biology to integrate my love for science with my work.
+
 
 <!--
 **Jado2312/Jado2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
