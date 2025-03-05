@@ -1,6 +1,6 @@
-## Hello there  
+## Hello there!
 
-I’m a student of computer engineering at the TEC. 
+My name is José Araya and I’m a proud student of computer engineering at the TEC. 
 
 I have liked computing since I was in school, when I met my first computer.
 
