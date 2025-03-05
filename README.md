@@ -2,7 +2,7 @@
 
 I’m a student of computer engineering at the TEC. 
 
-I can imagine myself without the notions of how computers and programming work. 
+I have liked computing since I was in school, when I met my first computer.
 
 As hobbies I usually play video games and read fantasy/science fiction/cosmic horror novels.
 
